@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\bin\Debug\net6.0\Ex_005_Random.exe
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\bin\Debug\net6.0\Ex_005_Random.deps.json
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\bin\Debug\net6.0\Ex_005_Random.runtimeconfig.json
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\bin\Debug\net6.0\Ex_005_Random.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\bin\Debug\net6.0\Ex_005_Random.pdb
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.AssemblyInfo.cs
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\refint\Ex_005_Random.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.pdb
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\Ex_005_Random.genruntimeconfig.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_005_Random\obj\Debug\net6.0\ref\Ex_005_Random.dll
