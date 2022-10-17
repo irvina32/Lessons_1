@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\bin\Debug\net6.0\Ex_004_Div.exe
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\bin\Debug\net6.0\Ex_004_Div.deps.json
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\bin\Debug\net6.0\Ex_004_Div.runtimeconfig.json
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\bin\Debug\net6.0\Ex_004_Div.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\bin\Debug\net6.0\Ex_004_Div.pdb
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.AssemblyInfo.cs
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\refint\Ex_004_Div.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.pdb
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\Ex_004_Div.genruntimeconfig.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples\Ex_004_Div\obj\Debug\net6.0\ref\Ex_004_Div.dll
