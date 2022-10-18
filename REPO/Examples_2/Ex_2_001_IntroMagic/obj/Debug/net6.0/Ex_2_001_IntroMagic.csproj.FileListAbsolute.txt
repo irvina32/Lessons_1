@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\bin\Debug\net6.0\Ex_2_001_IntroMagic.exe
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\bin\Debug\net6.0\Ex_2_001_IntroMagic.deps.json
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\bin\Debug\net6.0\Ex_2_001_IntroMagic.runtimeconfig.json
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\bin\Debug\net6.0\Ex_2_001_IntroMagic.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\bin\Debug\net6.0\Ex_2_001_IntroMagic.pdb
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.AssemblyInfo.cs
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\refint\Ex_2_001_IntroMagic.dll
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.pdb
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\Ex_2_001_IntroMagic.genruntimeconfig.cache
+C:\Users\Home\Desktop\GIT_ОБУЧЕНИЕ\Lessons_1_C#\REPO\Examples_2\Ex_2_001_IntroMagic\obj\Debug\net6.0\ref\Ex_2_001_IntroMagic.dll
